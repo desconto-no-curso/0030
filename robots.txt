@@ -6,3 +6,9 @@ Disallow:
 
 User-agent: Googlebot-Image
 Disallow:
+
+
+Sitemap: https://comunidade-do-jejum.desconto-no-curso.com.br/sitemap.xml
+
+
+
